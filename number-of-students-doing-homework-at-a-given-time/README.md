@@ -1,3 +1,4 @@
+[Discussion Post (created on 13/6/2021 at 18:31)](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/discuss/1334988/0-ms-C%2B%2B-code-faster-than-100)  
 <h2>1450. Number of Students Doing Homework at a Given Time</h2><h3>Easy</h3><hr><div><p>Given two integer arrays <code>startTime</code> and <code>endTime</code> and given an integer <code>queryTime</code>.</p>
 
 <p>The <code>ith</code> student started doing their homework at the time <code>startTime[i]</code> and finished it at time <code>endTime[i]</code>.</p>
